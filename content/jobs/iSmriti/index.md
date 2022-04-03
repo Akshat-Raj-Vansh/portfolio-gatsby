@@ -4,7 +4,7 @@ title: 'App Developer'
 company: 'iSmriti'
 location: 'Indian Institute of Technology, Kanpur'
 range: 'May - December 2019'
-url: 'https://www.apple.com/music/'
+url: 'https://ismrititek.com/'
 ---
 
 - Collaborated with other interns to create various Iot, ML and Android Projects.

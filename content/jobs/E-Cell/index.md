@@ -4,7 +4,7 @@ title: 'App Developer'
 company: 'E-Cell'
 location: 'National Institute of Technology, Hamirpur'
 range: 'September - January 2020'
-url: 'https://www.apple.com/music/'
+url: 'http://www.ecellnith.com/'
 ---
 
 - Collaborated with 5 team members to create an E-bicycle controlled by an android app.

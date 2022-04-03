@@ -79,7 +79,7 @@ opportunities to gain more real‐world experience and develop my existing skill
       href="https://drive.google.com/drive/folders/1rcCh7GfVZ_8bPi4lmkk-qe9UQMQ11Hu9?usp=sharing"
       target="_blank"
       rel="noreferrer">
-      Check out my resume!
+      Grab my resume!
     </a>
   );
 
