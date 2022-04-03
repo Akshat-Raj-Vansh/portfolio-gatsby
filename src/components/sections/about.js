@@ -137,16 +137,15 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Akshat Raj Vansh and I am currently pursuing my Bachelors of Computer Science and Engineering (Dual Degree)
-               at National Institute of Technology, Hamirpur. I am a self-taught developer and I am passionate about building mobile applications and web applications.
+               at National Institute of Technology, Hamirpur. I am a self-taught developer and I am passionate about building mobile and web applications.
 
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of organising and mentoring at{' '}
-              <a href="https://iitk.ac.in/new/data/iitk/">Summer Workshop @IITK on IoT and Machine Learning</a>,{' '},
-              working at IITK based startup 
-              <a href="https://ismrititek.com/">ISmriti</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>. My
+              <a href="https://iitk.ac.in/new/data/iitk/">Summer Workshop @IITK</a> on IoT and Machine Learning,
+              working at an IITK based startup 
+              <a href="https://ismrititek.com/"> ISmriti</a>, to develop android app. My
               main focus these days is building apps based on Blockchain Technology and participating in the Hackathons.
             </p>
 
