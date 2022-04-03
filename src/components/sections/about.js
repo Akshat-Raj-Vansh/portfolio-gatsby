@@ -144,8 +144,8 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of organising and mentoring at{' '}
               <a href="https://iitk.ac.in/new/data/iitk/">Summer Workshop @IITK</a> on IoT and Machine Learning,
-              working at an IITK based startup 
-              <a href="https://ismrititek.com/"> ISmriti</a>, to develop android app. My
+              working at an IITK based startup{' '}
+              <a href="https://ismrititek.com/">ISmriti</a>{' '}to develop android app. My
               main focus these days is building apps based on Blockchain Technology and participating in the Hackathons.
             </p>
 
