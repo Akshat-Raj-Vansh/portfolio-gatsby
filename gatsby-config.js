@@ -5,7 +5,7 @@ module.exports = {
     title: 'Akshat Raj Vansh',
     description:
       'Akshat Raj Vansh is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://akshatrajvansh.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://rajvanshakshat.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -23,7 +23,7 @@ module.exports = {
         name: 'AkshatRajVansh',
         short_name: 'AkshatRajVansh',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: config.colors.black,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',

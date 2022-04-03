@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
      Software developer with 2 years of experience in frontend and backend development. Skilled in various programming languages and frameworks. Seeking internship
-opportunities to gain more real‐world experience and develop my existing skills. Currently, I'm am serving as the Creative Head at {' '}
+opportunities to gain more real‐world experience and develop my existing skills. Currently the Creative Head at {' '}
         <a href="https://robosocnith.com/" target="_blank" rel="noreferrer">
           Robotic Society NITH
         </a>
