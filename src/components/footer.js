@@ -119,7 +119,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )}
+          )}*/
         </a>
       </StyledCredit>
     </StyledFooter>

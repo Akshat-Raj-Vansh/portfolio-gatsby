@@ -99,7 +99,7 @@ const StyledSidebar = styled.aside`
     height: 100vh;
     outline: 0;
     background-color: var(--black);
-    box-shadow: -10px 0px 30px -15px var(--dark-navy);
+    box-shadow: -10px 0px 30px -15px var(--black);
     z-index: 9;
     transform: translateX(${props => (props.menuOpen ? 0 : 100)}vw);
     visibility: ${props => (props.menuOpen ? 'visible' : 'hidden')};
