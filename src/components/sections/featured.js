@@ -157,7 +157,7 @@ const StyledProject = styled.li`
     z-index: 2;
     padding: 25px;
     border-radius: var(--border-radius);
-    background-color: var(--grey-light);
+    background-color: var(--grey);
     color: var(--light-slate);
     font-size: var(--fz-lg);
 

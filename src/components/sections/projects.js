@@ -71,7 +71,7 @@ const StyledProject = styled.li`
     height: 100%;
     padding: 2rem 1.75rem;
     border-radius: var(--border-radius);
-    background-color: var(--grey-light);
+    background-color: var(--grey);
     transition: var(--transition);
   }
 
