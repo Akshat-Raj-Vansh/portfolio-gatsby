@@ -40,6 +40,7 @@ module.exports = {
     navy: '#0a192f',
     darkNavy: '#020c1b',
     black: '#000000',
+    grey: '#151a1e',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
