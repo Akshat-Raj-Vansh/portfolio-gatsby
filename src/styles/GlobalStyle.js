@@ -53,7 +53,7 @@ const GlobalStyle = createGlobalStyle `
   /* Scrollbar Styles */
   html {
     scrollbar-width: thin;
-    scrollbar-color: var(--dark-slate) var(--navy);
+    scrollbar-color: var(--dark-slate) var(--dark-navy);
   }
   body::-webkit-scrollbar {
     width: 12px;
