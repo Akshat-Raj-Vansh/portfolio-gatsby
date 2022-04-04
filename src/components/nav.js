@@ -9,7 +9,7 @@ import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
 
-const StyledHeader = styled.header`
+const StyledHeader = styled.header `
   ${({ theme }) => theme.mixins.flexBetween};
   position: fixed;
   top: 0;
@@ -48,7 +48,7 @@ const StyledHeader = styled.header`
       css`
         height: var(--nav-scroll-height);
         transform: translateY(calc(var(--nav-scroll-height) * -1));
-        box-shadow: 0 10px 30px -10px var(--grew-shadow);
+        box-shadow: 0 10px 30px -10px var(--grey-shadow);
       `};
   }
 `;
