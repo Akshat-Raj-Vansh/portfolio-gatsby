@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
+// import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
@@ -68,25 +69,25 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
-    stars: null,
-    forks: null,
-  });
+  // const [githubInfo, setGitHubInfo] = useState({
+  //   stars: null,
+  //   forks: null,
+  // });
 
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/Akshat-Raj-Vansh/portfolio-gatsby')
-      .then(response => response.json())
-      .then(json => {
-        const { stargazers_count, forks_count } = json;
-        setGitHubInfo({
-          stars: stargazers_count,
-          forks: forks_count,
-        });
-      })
-      .catch(e => console.error(e));
+    // fetch('https://api.github.com/repos/Akshat-Raj-Vansh/portfolio-gatsby')
+    //   .then(response => response.json())
+    //   .then(json => {
+    //     const { stargazers_count, forks_count } = json;
+    //     setGitHubInfo({
+    //       stars: stargazers_count,
+    //       forks: forks_count,
+    //     });
+    //   })
+    //   .catch(e => console.error(e));
   }, []);
 
   return (
@@ -108,7 +109,7 @@ const Footer = () => {
         <a href="https://github.com/Akshat-Raj-Vansh/portfolio-gatsby">
           <div>Built by Akshat Raj Vansh</div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
@@ -119,7 +120,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )}*/
+          )} */}
         </a>
       </StyledCredit>
     </StyledFooter>
